@@ -1,9 +1,9 @@
 
-# Menu Plugin
+# AllayMenu 
 
-一个用于 Minecraft Bedrock Edition 服务端（如 LiteLoaderBDS）的图形菜单插件。此插件允许玩家通过简单的右键点击钟表来打开可高度自定义的图形用户界面（GUI）菜单，并执行预定义的命令。
+一个用于 Allay 的图形菜单插件。此插件允许玩家通过简单的右键点击钟表来打开可高度自定义的图形用户界面（GUI）菜单，并执行预定义的命令。
 
-A graphical menu plugin for Minecraft Bedrock Edition servers (e.g., LiteLoaderBDS). This plugin allows players to open a highly customizable graphical user interface (GUI) menu by simply right-clicking a clock, and then execute predefined commands.
+A graphical menu plugin for Allay server. This plugin allows players to open a highly customizable graphical user interface (GUI) menu by simply right-clicking a clock, and then execute predefined commands.
 
 ---
 
