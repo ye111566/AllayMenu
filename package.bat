@@ -1,1 +1,0 @@
-powershell ./gradlew shadowJar
