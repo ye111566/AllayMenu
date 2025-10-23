@@ -1,4 +1,4 @@
-好的，这是一个为 GitHub 项目设计的双语 README.md 文件，结构清晰，内容基于您提供的插件说明。
+
 # Menu Plugin
 
 一个用于 Minecraft Bedrock Edition 服务端（如 LiteLoaderBDS）的图形菜单插件。此插件允许玩家通过简单的右键点击钟表来打开可高度自定义的图形用户界面（GUI）菜单，并执行预定义的命令。
