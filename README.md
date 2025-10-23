@@ -4,8 +4,8 @@
 
 ## 安装方法 | Installation
 
-1.  将下载的 `*.jar` 文件放入 BDS 服务端的 `plugins` 文件夹中。
-    Place the downloaded `*.jar` file into the `plugins` folder of your BDS server.
+1.  将下载的 `*.jar` 文件放入服务端的 `plugins` 文件夹中。
+    Place the downloaded `*.jar` file into the `plugins` folder of your server.
 
 2.  在 `plugins` 文件夹内创建一个名为 `menu` 的新文件夹。
     Create a new folder named `menu` inside the `plugins` folder.
@@ -103,3 +103,4 @@ Each button is a JSON object with the following properties:
 *   When `mode` is set to `"player"`, the player must have the necessary permissions to execute the corresponding command.
 *   `"server"` 模式通常权限更高，但请谨慎使用高危命令。
 *   The `"server"` mode generally has higher privileges, but use it cautiously for high-risk commands.
+
