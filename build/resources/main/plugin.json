@@ -1,9 +1,0 @@
-{
-  "entrance": "yedev.allaydev.allaymenu.AllayMenu",
-  "name": "AllayMenu",
-  "authors": ["ye111566"],
-  "api_version": ">=0.8.3",
-  "description": "custom menu for allay",
-  "website": "https://github.com/ye111566/AllayMenu",
-  "version": "0.1.0"
-}
